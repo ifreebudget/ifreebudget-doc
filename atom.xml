@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Personal Finance Manager (iFreeBudget)]]></title>
+  <link href="http://ifreebudget.github.io//github/atom.xml" rel="self"/>
+  <link href="http://ifreebudget.github.io//github/"/>
+  <updated>2013-12-11T23:57:09-05:00</updated>
+  <id>http://ifreebudget.github.io//github/</id>
+  <author>
+    <name><![CDATA[ifreebudget]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Personal Finance Manager]]></title>
+    <link href="http://ifreebudget.github.io//github/blog/2013/12/09/personal-finance-manager/"/>
+    <updated>2013-12-09T22:16:33-05:00</updated>
+    <id>http://ifreebudget.github.io//github/blog/2013/12/09/personal-finance-manager</id>
+    <content type="html"><![CDATA[<p>iFreeBudget is a Free Personal Finance Manager for Windows, Linux, Mac and Android platforms.</p>
+
+<ul>
+    <li>Track expenses and manage your budgets with its intuitive user interface and ability to import bank and credit card statements from Google Drive. </li>
+    <li>Create monthly and weekly budgets and track expenses based on budget to see where you are spending most money.</li>
+    <li>Fully customizable accounts and categories. Supports creating nested categories and accounts easily. 
+    <li>Weekly or monthly cash flow report for overall picture of your finances (press menu on main screen).</li>
+    <li>Recurring expenses or incomes with reminders.</li>
+    <li>Save backups to your Google Drive.</li>
+    <li>Share backups between multiple devices to keep them in sync.</li>
+    <li>Export reports to Google Docs as spreadsheets.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
